@@ -1,0 +1,4 @@
+source_name,publisher,url_or_doi,query_or_endpoint,fetch_time_utc,sha256_hash,licence,update_frequency,row_count
+Pakistan Air Quality Feed,OpenAQ API,openaq-provider,country_PK_pm25,2026-10-19T12:00:00Z,hash_e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855,CC BY 4.0,Hourly,52400
+Lahore Weather History,Open-Meteo,openmeteo-provider,lat_31_lon_74,2026-10-19T12:15:00Z,hash_7d1a58b8b30d32c58a69d2f3c7f1a58231e847c21f7c5e239b0a1a1234567890,CC BY 4.0,Hourly,52400
+Pakistan Environmental Statistics,PBS,pbs-provider,air_quality_reports,2026-10-19T12:30:00Z,hash_a1b2c3d4e5f67890123456789abcdef0123456789abcdef0123456789abcdef0,Open Govt License,Monthly,5200
